@@ -4,8 +4,7 @@
 <[Link to my project's public GitHub respository](https://github.com/DXLuis101/Flappy-Friend.git)>
 
 ## Description
-This project will consist at the press of a keyboard button to make to interact with the character by making it jump. This encompasses
-to game development, making it fairly relevant to the media and digital arts.
+This project will consist at the press of a keyboard button to make to interact with the character by making it jump. This encompasses to game development, making it fairly relevant to the media and digital arts.
 
 ## Features
 - Feature 1: Jump
@@ -13,8 +12,7 @@ to game development, making it fairly relevant to the media and digital arts.
 - Feature 2: Obstacle Collision
 	- The obstacle will have its collision, meaning, if the player character hits it, then it's game over.
 - Feature 3: Score Data
-	- At the beggining of the game, the score will be displayed. By passing through the obstacles you gain score. When
-   		it's game over, the score saves the data of your highest score.
+	- At the beggining of the game, the score will be displayed. By passing through the obstacles you gain score. When it's game over, the score saves the data of your highest score.
 
 ## Challenges
 - I will need to research the usage of pygame. 
@@ -28,8 +26,7 @@ Ideal Outcome:
 - game will result in programming skills.
 
 Minimal Viable Outcome:
-- The game (script) must at least have the player character jumping. Regardless, the obstacles and sidescroller background moving must
-- be essential to this game (script).
+- The game (script) must at least have the player character jumping. Regardless, the obstacles and sidescroller background moving must be essential to this game (script).
 
 ## Milestones
 
