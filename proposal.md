@@ -21,9 +21,7 @@ This project will consist at the press of a keyboard button to make to interact 
 
 ## Outcomes
 Ideal Outcome:
-- Having to recreate the Flappy Bird game means that I could achieve some skills that requires mild/heavy programming in a script.
-- Ideally, I would like to gain technical skills in the field of programming arts of game development, so having to do the Flappy Bird
-- game will result in programming skills.
+- Having to recreate the Flappy Bird game means that I could achieve some skills that requires mild/heavy programming in a script. Ideally, I would like to gain technical skills in the field of programming arts of game development, so having to do the Flappy Bird game will result in programming skills.
 
 Minimal Viable Outcome:
 - The game (script) must at least have the player character jumping. Regardless, the obstacles and sidescroller background moving must be essential to this game (script).
